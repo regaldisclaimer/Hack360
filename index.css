@@ -5,12 +5,17 @@ html,body{
   font-weight: 300;
   font-size: 24px;
   text-align: center;
+  margin: 0px;
+  overflow:hidden;
 }
 
 p{
   margin:16px;
 }
 
+#banner{
+  max-height:30vh;
+}
 
 
 
